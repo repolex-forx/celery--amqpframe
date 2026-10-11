@@ -1,0 +1,7 @@
+[2026-10-11T06:12:09Z] === AST ITERATION 1 START | repo=celery/amqpframe sha=ab4d73d0 ===
+[2026-10-11T06:12:09Z] [iter=1] PHASE START: ast repo=celery/amqpframe sha=ab4d73d0
+[2026-10-11T06:12:09Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T06:12:19Z] [iter=1] AST chunks built count=1 triples=95882
+[2026-10-11T06:12:19Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/ab4d73d092a8e0d35a7964a2033b8be97ee21a6a/.complete
+[2026-10-11T06:12:19Z] [iter=1] PHASE END: ast elapsed_s=10 elapsed_min=0.2
+[2026-10-11T06:12:19Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
