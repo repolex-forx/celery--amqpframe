@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "amqpframe",
+  "versions": [
+    {
+      "commit": "ab4d73d092a8e0d35a7964a2033b8be97ee21a6a",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:13:21.349412+00:00"
+    }
+  ]
+}
